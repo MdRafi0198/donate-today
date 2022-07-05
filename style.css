@@ -1,0 +1,31 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+}
+
+.cointainer {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 50px;
+    background-color: orangered;
+}
